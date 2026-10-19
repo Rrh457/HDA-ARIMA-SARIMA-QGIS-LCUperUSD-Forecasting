@@ -1,0 +1,200 @@
+country,missing_months,decision
+Aruba,0,kept
+Afghanistan,64,dropped: too many missing months
+Angola,0,kept
+Albania,0,kept
+Netherlands Antilles,0,kept
+United Arab Emirates,1,kept: 1 month(s) filled
+Argentina,0,kept
+Armenia,2,kept: 2 month(s) filled
+Antigua and Barbuda,1,kept: 1 month(s) filled (incl. 1 data-entry spike)
+Australia,0,kept
+Austria,0,kept
+Azerbaijan,0,kept
+Burundi,0,kept
+Belgium,0,kept
+Benin,1,kept: 1 month(s) filled
+Burkina Faso,1,kept: 1 month(s) filled
+Bangladesh,0,kept
+Bulgaria,0,kept
+Bahrain,1,kept: 1 month(s) filled
+"Bahamas, The",0,kept
+Bosnia and Herzegovina,0,kept
+Belarus,2,kept: 2 month(s) filled
+Belize,1,kept: 1 month(s) filled
+Bermuda,0,kept
+Bolivia,0,kept
+Brazil,0,kept
+Barbados,0,kept
+Brunei Darussalam,0,kept
+Bhutan,0,kept
+Botswana,0,kept
+Central African Republic,0,kept
+Canada,0,kept
+Switzerland,0,kept
+Chile,0,kept
+China,0,kept
+Cote d'Ivoire,0,kept
+Cameroon,1,kept: 1 month(s) filled
+"Congo, Dem. Rep.",0,kept
+"Congo, Rep.",8,kept: 8 month(s) filled
+Colombia,0,kept
+Comoros,0,kept
+Cabo Verde,5,kept: 5 month(s) filled
+Costa Rica,0,kept
+Cuba,0,kept
+Cayman Islands,1,kept: 1 month(s) filled
+Cyprus,0,kept
+Czech Republic,0,kept
+Germany,0,kept
+Djibouti,1,kept: 1 month(s) filled
+Dominica,1,kept: 1 month(s) filled
+Denmark,0,kept
+Dominican Republic,0,kept
+Algeria,0,kept
+Ecuador,0,kept
+"Egypt, Arab Rep.",0,kept
+Eritrea,1,kept: 1 month(s) filled
+Spain,0,kept
+Estonia,0,kept
+Ethiopia,0,kept
+Finland,0,kept
+Fiji,0,kept
+France,0,kept
+Faroe Islands,11,kept: 11 month(s) filled
+"Micronesia, Fed. Sts.",1,kept: 1 month(s) filled
+Gabon,1,kept: 1 month(s) filled
+United Kingdom,0,kept
+Georgia,0,kept
+Ghana,0,kept
+Guinea,0,kept
+"Gambia, The",0,kept
+Guinea-Bissau,1,kept: 1 month(s) filled
+Equatorial Guinea,1,kept: 1 month(s) filled
+Greece,0,kept
+Grenada,1,kept: 1 month(s) filled
+Greenland,110,dropped: too many missing months
+Guatemala,0,kept
+Guyana,3,kept: 3 month(s) filled
+"Hong Kong SAR, China",0,kept
+Honduras,0,kept
+Croatia,0,kept
+Haiti,0,kept
+Hungary,0,kept
+Indonesia,0,kept
+Isle of Man,1,kept: 1 month(s) filled
+India,0,kept
+Ireland,0,kept
+"Iran, Islamic Rep.",8,kept: 8 month(s) filled
+Iraq,4,kept: 4 month(s) filled
+Iceland,0,kept
+Israel,0,kept
+Italy,0,kept
+Jamaica,0,kept
+Jordan,0,kept
+Japan,0,kept
+Kazakhstan,0,kept
+Kenya,0,kept
+Kyrgyz Republic,1,kept: 1 month(s) filled
+Cambodia,2,kept: 2 month(s) filled
+Kiribati,2,kept: 2 month(s) filled
+St. Kitts and Nevis,1,kept: 1 month(s) filled
+"Korea, Rep.",0,kept
+Kuwait,1,kept: 1 month(s) filled
+"Lao, PDR",3,kept: 3 month(s) filled
+Lebanon,0,kept
+Liberia,13,dropped: too many missing months
+Libya,5,kept: 5 month(s) filled
+St. Lucia,1,kept: 1 month(s) filled
+Sri Lanka,0,kept
+Lesotho,0,kept
+Lithuania,0,kept
+Luxembourg,0,kept
+Latvia,0,kept
+"Macao SAR, China",0,kept
+Morocco,0,kept
+"Moldova, Rep.",0,kept
+Madagascar,0,kept
+Maldives,1,kept: 1 month(s) filled
+Mexico,0,kept
+North Macedonia,1,kept: 1 month(s) filled
+Mali,1,kept: 1 month(s) filled
+Malta,0,kept
+Myanmar,65,dropped: too many missing months
+Montenegro,1,kept: 1 month(s) filled
+Mongolia,0,kept
+Mozambique,0,kept
+Mauritania,61,dropped: too many missing months
+Mauritius,0,kept
+Malawi,0,kept
+Malaysia,0,kept
+Namibia,0,kept
+New Caledonia,1,kept: 1 month(s) filled
+Niger,1,kept: 1 month(s) filled
+Nigeria,0,kept
+Nicaragua,0,kept
+Netherlands,0,kept
+Norway,0,kept
+Nepal,0,kept
+New Zealand,0,kept
+Oman,1,kept: 1 month(s) filled
+Pakistan,0,kept
+Panama,0,kept
+Peru,0,kept
+Philippines,0,kept
+Palau,1,kept: 1 month(s) filled
+Papua New Guinea,0,kept
+Poland,0,kept
+Portugal,0,kept
+Paraguay,0,kept
+West Bank and Gaza,0,kept
+French Polynesia,1,kept: 1 month(s) filled
+Qatar,1,kept: 1 month(s) filled
+Romania,0,kept
+Russian Federation,0,kept
+Rwanda,0,kept
+Saudi Arabia,0,kept
+Sudan,35,dropped: too many missing months
+Senegal,1,kept: 1 month(s) filled
+Singapore,0,kept
+Solomon Islands,0,kept
+Sierra Leone,0,kept
+El Salvador,0,kept
+San Marino,1,kept: 1 month(s) filled
+Somalia,99,dropped: too many missing months
+Serbia,2,kept: 2 month(s) filled
+Sao Tome and Principe,4,kept: 4 month(s) filled
+Suriname,0,kept
+Slovakia,0,kept
+Slovenia,0,kept
+Sweden,0,kept
+Eswatini,0,kept
+Seychelles,0,kept
+Syrian Arab Republic,45,dropped: too many missing months
+Chad,1,kept: 1 month(s) filled
+Togo,1,kept: 1 month(s) filled
+Thailand,0,kept
+Tajikistan,3,kept: 3 month(s) filled
+Turkmenistan,141,dropped: too many missing months
+Tonga,0,kept
+Trinidad and Tobago,0,kept
+Tunisia,0,kept
+Turkey,0,kept
+"Taiwan, China",0,kept
+"Tanzania, United Rep.",0,kept
+Uganda,0,kept
+Ukraine,0,kept
+Uruguay,0,kept
+United States,0,kept
+Uzbekistan,0,kept
+St. Vincent and the Grenadines,1,kept: 1 month(s) filled
+"Venezuela, RB",26,dropped: too many missing months
+"Virgin Islands, U.S.",110,dropped: too many missing months
+Viet Nam,0,kept
+Vanuatu,0,kept
+Samoa,0,kept
+Kosovo,1,kept: 1 month(s) filled
+"Yemen, Rep.",0,kept
+South Africa,0,kept
+Zambia,0,kept
+Zimbabwe,3,kept: 3 month(s) filled
